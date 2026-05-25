@@ -51,25 +51,10 @@ Bitte ordne ein, wie kritisch Dein Anliegen ist.
 
 #### Bitte begründe Deine Auswahl
 
-Das Kulturzentrum die WEBEREI Gütersloh wird seit Anfang Febraur 2026 renoviert. 
+Unser Makerspace ist seit 2019 in der Weberei Gütersloh zu Hause – dem Kulturzentrum der Stadt, das seit 1984 Heimat für Vereine, Gastronomie, Kino und Jugendzentrum ist. Anfang 2026 begann die Renovierung, bei der festgestellt wurde, dass das gesamte Gebäude brandschutztechnisch ertüchtigt werden muss. Dies ist ein Aufwand mit noch unbekanntem Ausmaß, der nicht budgetiert ist und mindestens noch ein Jahr dauern wird. Davon sind wir besonders betroffen. Wir haben keine eigene Werkstatt mehr, sondern müssen uns zwei Räume mit allen anderen Initiativen teilen.
 
-Nach zwölf Jahren ziehen die Betreiber des Kulturzentrums „Die Weberei” in Gütersloh die Reißleine, da das Gebäude dringend renovierungsbedürftig ist. Die Weberei ist seit 1984 Heimat für verschiedene Vereine und Initiativen und wird auch diesen Betreiberwechsel überstehen. Wir sind 2019 mit unserem Makerspace dort eingezogen und wollen uns als engagierte Bürger:innen bei der Renovierung mit einbringen.
-
-In unserem Verein bieten wir viele Möglichkeiten und sind mit 3D-Druckern, einem Lasercutter, einer CNC-Fräse, einer Holzwerkstatt, einem Elektroniklabor, einer Textilwerkstatt, Computerarbeitsplätzen sowie Foto- und Video-Equipment ausgestattet. Eine Tischkreissäge und eine Dominofräse besitzen wir jedoch noch nicht. Wir sehen unsere Kompetenz bei der Renovierung vor allem darin, bei der Innenausstattung in Form von Möbeln zu helfen. Die Renovierungsarbeiten sollen im März 2026 beginnen. Nach und nach können dann die Vereine und Initiativen neue bzw. renovierte Räume beziehen.
-
- 
-
-Es wäre uns eine große Hilfe, wenn ihr uns eine Tischkreissäge (z.B. CSC SYS 50 EBI-Plus) und eine Dominofräse (z.B. DF 500 RQ-Set) zur Verfügung stellen könntet. Es macht uns nichts aus, wenn es sich um B-Ware oder Auslaufmodelle handelt.
-
- 
-
-Als Gegenleistung für eine Spende an den Makerspace Gütersloh, können wir uns auf verschiedenen Wegen erkenntlich zeigen.
-
-Zum einen listen wir unterstützende Institutionen auf unserer Website (https://makerspace-gt.de/partnerschaften/) auf, zum anderen sind wir als gemeinnütziger Verein berechtigt, Spendenbescheinigungen auszustellen, sodass Sach- und Geldspenden steuerlich geltend gemacht werden können.
-
-
-
-
+Als engagierte Bürger*innen lassen wir uns davon nicht einschränken. Wir wollen uns mit unserer Expertise einbringen und bei der Renovierung, insbesondere bei der Herstellung von neuen Möbeln für die verwinkelten Räume, mitwirken.
+Mobil nutzbare Werkzeuge werden während der laufenden Renovierung gebraucht. Eine Unterstützung nach Abschluss der Arbeiten würde zu spät kommen, um einen nennenswerten Beitrag leisten zu können.
 
 ## Abschnitt 2: Projektbeschreibung
 
