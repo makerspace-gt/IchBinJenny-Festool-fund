@@ -79,8 +79,15 @@ Renovierung des Kulturzentrums WEBEREI Gütersloh
 
 #### Spendenbedarf und Verwendungszweck
 
-Tischkreissäge und Dominofräse
 
+##### Sachspenden
+
+| Beschreibung         | Typ                 |          Preis | Link                                                                                                          |
+| -------------------- | ------------------- | -------------: | ------------------------------------------------------------------------------------------------------------- |
+| Akku-Tischkreissäge  | CSC SYS 50 EB-Basic |     2.177,03 € | https://www.festool.de/produkte/saegen/tischkreissaegen/576820---csc-sys-50                                   |
+| 18V Akku Starter Set | 18V 2xHP5,0/TCL6    |       378,81 € | https://www.festool.de/zubehoer/akku-zubehoer/akku--und-ladetechnik/18v-starter-sets/578736---18v-2xhp5,0tcl6 |
+| DOMINO Fräse         | DF 500 RQ-Set       |     1.439,45 € | https://www.festool.de/produkte/domino-verbindungssystem/duebelfraesen/578541---df-500-rq-set                 |
+| **Gesamt**           |                     | **3.995,29 €** |
 
 #### Warum siehst Du Festool als passenden Partner für dieses Vorhaben?
 
