@@ -33,10 +33,10 @@ Wir schätzen das Engagement unserer Mitarbeitenden und unterstützen es gern. D
 
 ### Wer braucht unsere Unterstützung?
 
-- **Organisation / Einrichtung:** Die Weberei Gütersloh
+- **Organisation / Einrichtung:** Kultur- und Bürgerzentrum Weberei Gütersloh
 - **Träger:** Makerspace Gütersloh e.V.
-- **Adresse:** c/o Die Weberei, Bogenstraße 1-8, 33330 Gütersloh
-- **Telefonnummer:** xxx (Optional, falls wir Rückfragen zu Deiner Anfrage haben. Platziere alterativ bitte "-".)
+- **Adresse:** c/o Weberei, Bogenstraße 1-8, 33330 Gütersloh
+- **Telefonnummer:** +49 5241 2249913 (Optional, falls wir Rückfragen zu Deiner Anfrage haben. Platziere alterativ bitte "-".)
 - **E-Mail:** post@makerspace-gt.de
 - **E-Mail-Adresse der antragstellenden Person:** - (Falls abweichend. Platziere alterativ bitte "-".)
 - **Webseite (falls vorhanden):** https://makerspace-gt.de
