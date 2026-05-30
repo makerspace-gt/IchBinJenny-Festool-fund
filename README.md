@@ -143,11 +143,12 @@ gemeinsam neues
 ### Nachhaltigkeit: Wir übernehmen Verantwortung für Menschen und Zukunft
 Fördert Dein Engagement einen bewussten Umgang mit Menschen, Umwelt und gemeinsamer Zukunft?
 
-
 #### wenig ausgeprägt 0..100 stark ausgeprägt
+80
 
+#### Bitte begründe Deine Auswahl (mit Zeilenumbruch)
 
-#### Bitte begründe Deine Auswahl
+Nachhaltigkeit ist für uns gelebte Praxis. Gemeinschaftlich genutzte Werkzeuge haben eine deutlich bessere Ressourcenbilanz als Einzeleigentum. Unser Makerspace bietet eine vielfältige Ausstattung, die einer breiten Gesellschaft zugänglich ist – unabhängig von Alter, Vorkenntnissen oder finanziellen Möglichkeiten. Bereits vor der Anschaffung neuer Geräte prüfen wir, ob es B-Ware, Refurbished-Angebote oder Geräte »für Bastler« gibt, da wir mit unseren gemeinsamen Kenntnissen gut damit zurechtkommen. Diese Kenntnisse teilen wir seit 2019 bei monatlichen Repair Cafés in der Stadtbibliothek Gütersloh und setzen damit ein aktives Zeichen gegen die Wegwerfgesellschaft. Durch spezielle Angebote für Kinder und Jugendliche fördern wir die MINT-Kompetenzen der nächsten Generation. Und nicht zuletzt wollen wir mit #IchBinJenny dazu beitragen, unser Kultur- und Bürgerzentrum zu erhalten. Die Weberei soll auch in den nächsten 40 Jahren ein prägender Teil von Gütersloh bleiben.
 
 ## Du kannst hier Bilder/weitere Dokumente zu Deinem Bedarf hochladen
 
