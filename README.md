@@ -131,14 +131,18 @@ Steht Dein Engagement für Verlässlichkeit, Sorgfalt und besondere Qualität in
 
 
 ### Innovation: Wir setzen auf Vielfalt und wagen gemeinsam Neues
-
 Steht Dein Engagement für neue Wege, kreative Lösungen oder inspiriert andere zum Mitmachen?
 
 #### wenig ausgeprägt 0..100 stark ausgeprägt
 80
 
-#### Bitte begründe Deine Auswahl
-gemeinsam neues 
+#### Bitte begründe Deine Auswahl (mit Zeilenumbruch)
+
+Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto »Mach doch, was du willst!« animieren wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Wir haben verschiedene Kenntnisse, von laienhaft interessiert bis professionell, und unterstützen uns einander bei Projekten, die wir alleine nicht umsetzen könnten.
+
+Unsere Ausstattung deckt ein breites Spektrum ab. Elektronik. Reparatur. 3D-Druck. Textil. Workstations. Foto. Audio. Video. Virtual Reality. IT. Holz. Laser. Was einzelne Bereiche bereits für sich bieten, übertrifft oft die Ausstattung einer privaten Hobbywerkstatt. Und als Gesamtpaket erst recht.
+
+Bei uns treffen Menschen, von Kindern bis Rentnern, mit unterschiedlichen Projekten aufeinander, wodurch sich ganz natürlich ein Austausch und eine kreative Nutzung der vorhandenen Möglichkeiten ergibt. Wer anderen zunächst eine helfende Hand reicht, entscheidet sich oft später dazu, selbst ein Projekt umzusetzen.
 
 ### Nachhaltigkeit: Wir übernehmen Verantwortung für Menschen und Zukunft
 Fördert Dein Engagement einen bewussten Umgang mit Menschen, Umwelt und gemeinsamer Zukunft?
