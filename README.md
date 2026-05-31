@@ -125,10 +125,15 @@ Makerspace ist offene Werkstatt und will gutes Werkzeug zur Verfügung stellen
 Steht Dein Engagement für Verlässlichkeit, Sorgfalt und besondere Qualität in der Umsetzung?
 
 #### wenig ausgeprägt 0..100 stark ausgeprägt
+80
 
+#### Bitte begründe Deine Auswahl (mit Zeilenumbruch)
 
-#### Bitte begründe Deine Auswahl
+Wir übernehmen keine Auftragsarbeiten und haben keine Kundentermine. Wir gehen unsere Hobbys enthusiastisch an und nerden uns in Themen rein. Wir nehmen uns die Zeit, bis unsere Projekte die gewünschte Qualität erreicht haben. Auch beim Repair Café investieren wir gemeinsam mit den Gästen so viel Zeit, wie nötig ist, um den Defekt zu finden und zu beheben, egal ob es 30 Minuten oder drei Stunden dauert.
 
+Um diesen Anspruch umsetzen zu können, achten wir bei der Beschaffung neuer Maschinen, Werkzeuge und Materialien darauf, dass diese hochwertiger sind als das, was sich Menschen für eine normale Hobbywerkstatt kaufen. Das ist der eigentliche Wert unserer Gemeinschaft. Wir bieten Zugang zu Qualität, die für Einzelpersonen nicht erschwinglich ist.
+
+Verlässlichkeit zeigt sich auch in Kontinuität. Im Jahr 2025 haben wir 127 Veranstaltungen angeboten und uns an noch mehr Tagen getroffen, ohne dass dies festgehalten wurde. Wir bieten regelmäßige Formate für Menschen unterschiedlichster Interessen: offene Werkstatt, Repair Café, Plenum, AG Cyber, Nähbar, kreativraum, Spieleabend und Workshops. Seit der Renovierung ist das auf das Repair Café, die AG Cyber und das Plenum zurückgefallen. Es juckt uns in den Fingern, wieder im Makerspace tätig zu werden, und wenn wir dafür erst die Weberei renovieren müssen, dann tun wir das. Die Möbel und Einbauten, die wir dafür fertigen, sollen den jahrelangen Betrieb in einem öffentlichen Kulturzentrum überstehen.
 
 ### Innovation: Wir setzen auf Vielfalt und wagen gemeinsam Neues
 Steht Dein Engagement für neue Wege, kreative Lösungen oder inspiriert andere zum Mitmachen?
