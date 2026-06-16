@@ -81,8 +81,9 @@ Bitte gebe die wichtigsten Informationen zu Deinem Vorhaben an. Bitte beschreibe
 
 Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto »Mach doch, was du willst!« animieren wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Wir haben verschiedene Kenntnisse, von laienhaft interessiert bis professionell, und unterstützen uns einander bei Projekten, die wir alleine nicht umsetzen könnten. Wir sind Teil der Gemeinschaft im Kultur- und Bürgerzentrum Weberei und möchte zur laufenden Renovierung aktiv beitragen, indem wir neue Möbel und Einbauten für die frisch renovierten Räume bauen. Wir sind der Teil im Weberei Förderverein, der sich handwerkliche einbringen kann. Der Weberei-Förderverein e.V. mit knapp 350 Mitgliedern hat den Interimsbetrieb übernommen und hält das Kulturzentrum am Laufen. Die Mitglieder tragen je nach ihren Stärken bei und organisieren die Gastro, Konzerte und Kulturveranstaltungen.
 
-#### Spendenbedarf und Verwendungszweck
+#### Spendenbedarf und Verwendungszweck (kein Zeilenumbruch)
 
+Für unser Engagement in der laufenden Renovierung der Weberei benötigen wir mobile Werkzeuge, da wir während der Bauphase keine feste Werkstatt mehr haben und alle Geräte direkt vor Ort einsetzbar sein müssen. Konkret bitten wir um eine Tischkreissäge (TKS 80 EBS-Set oder gar TKS 80 EBS ST 840-Set) und eine DOMINO Fräse (DF 500 RQ-Set). Die Tischkreissäge liefert präzise Längs- und Querschnitte für Platten und Massivholz. Die DOMINO-Fräse ist für uns keine neue Idee. Wir konnten 2021 beim Aufbau unserer Werkstatt bereits eine geliehende Dominofräse einsetzen. Dabei haben wir erkannt, wie einzigartig und unverzichtbar dieses Werkzeug für hochwertige Möbelverbindungen ist. Wir sind ausdrücklich offen für B-Ware, Auslaufmodelle oder aufgearbeitete Geräte aus dem Festool-Refurbishment-Programm, denn uns geht es um die Funktion, nicht um den Neuheitsstatus. Die Werkzeuge gehen dauerhaft in den gemeinschaftlichen Bestand des Makerspace über. Davon profitieren unmittelbar rund 40 Vereinsmitglieder sowie regelmäßige Gäste. Wir erreichen über unsere monatlichen Repair Cafés in der Stadtbibliothek und unsere Kinder- und Jugendprogramme (Maustag, MINT-Wochen, kreativraum der Walter Blüchert Stiftung) ein breites Publikum in der Region. Mit den Möbeln die wir bauen, leisten wir einen dauerhaften Beitrag an dem Kulturzentrum.
 
 ##### Sachspenden
 
@@ -94,10 +95,11 @@ Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und W
 
 ###### Alternativen
 
-| Beschreibung         | Typ                 |      Preis | Link                                                                                                          |
-| -------------------- | ------------------- | ---------: | ------------------------------------------------------------------------------------------------------------- |
-| Akku-Tischkreissäge  | CSC SYS 50 EB-Basic | 2.177,03 € | https://www.festool.de/produkte/saegen/tischkreissaegen/576820---csc-sys-50                                   |
-| 18V Akku Starter Set | 18V 2xHP5,0/TCL6    |   378,81 € | https://www.festool.de/zubehoer/akku-zubehoer/akku--und-ladetechnik/18v-starter-sets/578736---18v-2xhp5,0tcl6 |
+| Beschreibung         | Typ                   |      Preis | Link                                                                                                          |
+| -------------------- | --------------------- | ---------: | ------------------------------------------------------------------------------------------------------------- |
+| Tischkreissäge       | TKS 80 EBS ST 840-Set | 5.480,07 € | https://www.festool.de/produkte/saegen/tischkreissaegen/578108---tks-80-ebs-set                               |
+| Akku-Tischkreissäge  | CSC SYS 50 EB-Basic   | 2.177,03 € | https://www.festool.de/produkte/saegen/tischkreissaegen/576820---csc-sys-50                                   |
+| 18V Akku Starter Set | 18V 2xHP5,0/TCL6      |   378,81 € | https://www.festool.de/zubehoer/akku-zubehoer/akku--und-ladetechnik/18v-starter-sets/578736---18v-2xhp5,0tcl6 |
 
 
 ### Pflegt Dein Projekt oder Träger eine Präsenz in der Öffentlichkeit (z. B. Website, Social Media, Netzwerke)?
