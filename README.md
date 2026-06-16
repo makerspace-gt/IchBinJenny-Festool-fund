@@ -47,14 +47,18 @@ Bitte ordne ein, wie kritisch Dein Anliegen ist.
 - Keine: Es besteht ein allgemeiner Unterstützungsbedarf, jedoch ohne zeitkritische Situation oder Härtefall.  
 - Akut: Es besteht sofortiger Handlungsbedarf, zum Beispiel bei Notlagen, besonderen Ereignissen oder zeitkritischer Unterstützung.
 
-60 (keine 0..100 akut)
+#### keine 0..100 akut
+60
 
-#### Bitte begründe Deine Auswahl
+#### Bitte begründe Deine Auswahl (mit Zeilenumbruch)
 
-Unser Makerspace ist seit 2019 in der Weberei Gütersloh zu Hause – dem Kulturzentrum der Stadt, das seit 1984 Heimat für Vereine, Gastronomie, Kino und Jugendzentrum ist. Anfang 2026 begann die Renovierung, bei der festgestellt wurde, dass das gesamte Gebäude brandschutztechnisch ertüchtigt werden muss. Dies ist ein Aufwand mit noch unbekanntem Ausmaß, der nicht budgetiert ist und mindestens noch ein Jahr dauern wird. Davon sind wir besonders betroffen. Wir haben keine eigene Werkstatt mehr, sondern müssen uns zwei Räume mit allen anderen Initiativen teilen.
+Die Weberei Gütersloh ist das Kultur- und Bürgerzentrum der Stadt, seit 1984 Heimat für Vereine, Gastronomie, Kino und Jugendarbeit. Sie wäre heute ein Parkplatz, hätten Bürger:innen 1979 nicht für ihren Erhalt gekämpft. Seit 1989 steht sie unter Denkmalschutz, sie hat Insolvenzen und Betreiberwechsel überstanden, weil sich immer Bürger:innen für sie eingesetzt haben. Jetzt steht ihr die größte Sanierung ihrer Geschichte bevor, bei der wieder Engagement gefragt ist.
 
-Als engagierte Bürger*innen lassen wir uns davon nicht einschränken. Wir wollen uns mit unserer Expertise einbringen und bei der Renovierung, insbesondere bei der Herstellung von neuen Möbeln für die verwinkelten Räume, mitwirken.
-Mobil nutzbare Werkzeuge werden während der laufenden Renovierung gebraucht. Eine Unterstützung nach Abschluss der Arbeiten würde zu spät kommen, um einen nennenswerten Beitrag leisten zu können.
+Die Arbeiten haben Anfang 2026 begonnen und erweisen sich als größer als gedacht. Das gesamte Gebäude muss brandschutztechnisch ertüchtigt werden. Deshalbt haben die Initiativen seit einem halben jahr keinen Zutritt mehr zu den Räumen und erst jetzt wird dies wieder Raumweise möglich. Derzeit beschränkt es sich auf einen Seminarraum und ein Studio mit Sportboden.
+
+Von allen Initiativen trifft es uns am härtesten. Wir hatten eine feste Werkstatt mit Maschinen, Werkbänken und Werkzeugen eingerichtet, die wir nun in Lagerräumen verstauen mussten. 
+
+Als engagierte Vereinsmitglieder lassen wir uns davon nicht aufhalten. Regale, Werkbänke und Ordnungssysteme müssen neu gebaut werden, damit wir wieder provisorisch handlungsfähig sind. Wir wollen uns aktiv bei den Renovierungsarbeiten einbringen, um Möbel für und mit allen in der Weberei direkt vor Ort zu bauen. Dazu brauchen wir jetzt mobile Werkzeuge, die ohne feste Werkstatt einsetzbar sind.
 
 ## Abschnitt 2: Projektbeschreibung
 
@@ -82,16 +86,19 @@ Renovierung des Kulturzentrums WEBEREI Gütersloh
 
 ##### Sachspenden
 
-| Beschreibung         | Typ                 |          Preis | Link                                                                                                          |
-| -------------------- | ------------------- | -------------: | ------------------------------------------------------------------------------------------------------------- |
-| Akku-Tischkreissäge  | CSC SYS 50 EB-Basic |     2.177,03 € | https://www.festool.de/produkte/saegen/tischkreissaegen/576820---csc-sys-50                                   |
-| 18V Akku Starter Set | 18V 2xHP5,0/TCL6    |       378,81 € | https://www.festool.de/zubehoer/akku-zubehoer/akku--und-ladetechnik/18v-starter-sets/578736---18v-2xhp5,0tcl6 |
-| DOMINO Fräse         | DF 500 RQ-Set       |     1.439,45 € | https://www.festool.de/produkte/domino-verbindungssystem/duebelfraesen/578541---df-500-rq-set                 |
-| **Gesamt**           |                     | **3.995,29 €** |
+| Beschreibung   | Typ            |          Preis | Link                                                                                          |
+| -------------- | -------------- | -------------: | --------------------------------------------------------------------------------------------- |
+| Tischkreissäge | TKS 80 EBS-Set |     4.594,01 € | https://www.festool.de/produkte/saegen/tischkreissaegen/575828---tks-80-ebs-set               |
+| DOMINO Fräse   | DF 500 RQ-Set  |     1.439,45 € | https://www.festool.de/produkte/domino-verbindungssystem/duebelfraesen/578541---df-500-rq-set |
+| **Gesamt**     |                | **6.033,46 €** |
 
-#### Warum siehst Du Festool als passenden Partner für dieses Vorhaben?
+###### Alternativen
 
-Dominofräse ist ein einziogartiges Werkzeug und Festool ist generell ein top Hersteller
+| Beschreibung         | Typ                 |      Preis | Link                                                                                                          |
+| -------------------- | ------------------- | ---------: | ------------------------------------------------------------------------------------------------------------- |
+| Akku-Tischkreissäge  | CSC SYS 50 EB-Basic | 2.177,03 € | https://www.festool.de/produkte/saegen/tischkreissaegen/576820---csc-sys-50                                   |
+| 18V Akku Starter Set | 18V 2xHP5,0/TCL6    |   378,81 € | https://www.festool.de/zubehoer/akku-zubehoer/akku--und-ladetechnik/18v-starter-sets/578736---18v-2xhp5,0tcl6 |
+
 
 ### Pflegt Dein Projekt oder Träger eine Präsenz in der Öffentlichkeit (z. B. Website, Social Media, Netzwerke)?
 
