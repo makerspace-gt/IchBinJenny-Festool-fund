@@ -103,18 +103,16 @@ Für unser Engagement in der laufenden Renovierung der Weberei benötigen wir mo
 
 
 ### Pflegt Dein Projekt oder Träger eine Präsenz in der Öffentlichkeit (z. B. Website, Social Media, Netzwerke)?
-
 Öffentlichkeitsarbeit schafft Transparenz, stärkt das Vertrauen in die Arbeit der Organisation und fördert Kooperation – das stärkt die Nachhaltigkeit des Projekts
 
 #### wenig ausgeprägt 0..100 stark ausgeprägt
-60
+80
 
-#### Bitte begründe Deine Auswahl
+#### Bitte begründe Deine Auswahl (mit Zeilenumbruch)
 
-Website Partnerschaften
-Instagram
-Forum
-Sichtbarkeit in unseren Räumen
+Wir leben das Motto »Tue Gutes und rede darüber!«. Wir dokumentieren unsere Ausstattung, Projekte und Aktivitäten auf unserer Website, teilen Einblicke auf Instagram und pflegen ein öffentliches Vereinsforum. Protokolle, Förderanträge und Sachberichte veröffentlichen wir transparent auf GitHub, damit andere Initiativen von unseren Erfahrungen lernen können.
+
+Lokale Zeitungen berichten regelmäßig über die Weberei und das Repair Café. Wir sind ein fester Teil der Weberei und präsentieren uns dort mit Schautafeln und offene Abenden. Wir pflegen Kooperationen dem Weberei-Förderverein, der Stadtbibliothek Gütersloh, der Walter Blüchert , der Hochschule Bielefeld und der Innovationsmanufaktur Gütersloh.
 
 ## Abschnitt 3: Werte-Fit
 
