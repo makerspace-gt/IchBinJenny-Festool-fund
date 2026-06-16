@@ -101,6 +101,9 @@ Für unser Engagement in der laufenden Renovierung der Weberei benötigen wir mo
 | Akku-Tischkreissäge  | CSC SYS 50 EB-Basic   | 2.177,03 € | https://www.festool.de/produkte/saegen/tischkreissaegen/576820---csc-sys-50                                   |
 | 18V Akku Starter Set | 18V 2xHP5,0/TCL6      |   378,81 € | https://www.festool.de/zubehoer/akku-zubehoer/akku--und-ladetechnik/18v-starter-sets/578736---18v-2xhp5,0tcl6 |
 
+#### Warum siehst Du Festool als passenden Partner für dieses Vorhaben? (kein Zeilenumbruch)
+
+Festool ist uns als zuverlässiger Hersteller von Werkzeugen bekannt. Mitglieder von uns arbeiten beruflich mit den Werkzeugen und wollen diese auch im Hobbybereich nicht mehr missen. Ein durchdachtes Werkzeugdesign ermöglicht es auch Einsteigern, diese sofort intuitiv und sicher zu nutzen. Das DOMINO-Verbindungssystem ist ein Alleinstellungsmerkmal. Kein anderer Hersteller bietet eine vergleichbare Lösung für schnelle, präzise Verbindungen, und für unsere Möbelarbeit in der Weberei ist diese Technik nicht zu ersetzen. Entscheidend für uns ist neben einem allgemein professionellen Werkzeug die Langlebigkeit. Unser Makerspace wird von vielen verschiedenen Menschen mit sehr unterschiedlichen Erfahrungsleveln genutzt. Das ist eine eigene Belastungsklasse, kein Industriebetrieb, aber auch kein gelegentliches Hobbygerät. Billigere Alternativen halten dieser Beanspruchung erfahrungsgemäß nicht stand und eine Neubeschaffung nach wenigen Jahren können wir uns als gemeinnütziger Verein schlicht nicht leisten. Die 10 Jahre Ersatzteilversorgung ist für uns kein Marketingversprechen, sondern ein konkretes Argument, damit das Werkzeug dauerhaft einsatzbereit bleibt.
 
 ### Pflegt Dein Projekt oder Träger eine Präsenz in der Öffentlichkeit (z. B. Website, Social Media, Netzwerke)?
 Öffentlichkeitsarbeit schafft Transparenz, stärkt das Vertrauen in die Arbeit der Organisation und fördert Kooperation – das stärkt die Nachhaltigkeit des Projekts
