@@ -120,14 +120,14 @@ Lokale Zeitungen berichten regelmäßig über die Weberei und das Repair Café. 
 ## Abschnitt 3: Werte-Fit
 
 ### Bezug zum Unternehmen
-
 Gibt es eine inhaltliche Nähe zu unseren Themen, Arbeitsfeldern oder unserem Wirkungsumfeld?
 
 #### wenig ausgeprägt 0..100 stark ausgeprägt
-80
+60
 
-#### Bitte begründe Deine Auswahl
-Makerspace ist offene Werkstatt und will gutes Werkzeug zur Verfügung stellen
+#### Bitte begründe Deine Auswahl (mit Zeilenumbruch)
+
+Als offene Werkstatt verbindet uns mit Festool die gemeinsame Überzeugung, dass gutes Werkzeug zu guter Arbeit führt. Festool steht als Familienunternehmen für die Kultur des Handwerks, für regionale Verwurzelung, Qualitätsanspruch ohne Kompromisse und Werkzeug, das hält. Die Arbeiten, die wir in der Weberei ausführen, sind handwerklich identisch mit dem, wofür Festools Werkzeuge entwickelt wurden, nämlich Innenausbau, Möbelmontage und Tischlerarbeit. Festool ist die Marke für mobile Werkzeuge auf der Baustelle. Die Weberei ist gerade genau das.
 
 ### Trägt Dein Engagement zu einem oder mehreren der folgenden Festool-Unternehmenswerte bei?
 
