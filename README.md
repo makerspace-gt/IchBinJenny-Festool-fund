@@ -157,7 +157,7 @@ Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und W
 
 Unsere Ausstattung deckt ein breites Spektrum ab. Elektronik. Reparatur. 3D-Druck. Textil. Workstations. Foto. Audio. Video. Virtual Reality. IT. Holz. Laser. Was einzelne Bereiche bereits für sich bieten, übertrifft oft die Ausstattung einer privaten Hobbywerkstatt. Und als Gesamtpaket erst recht.
 
-Bei uns treffen Menschen, von Kindern bis Rentnern, mit unterschiedlichen Projekten aufeinander, wodurch sich ganz natürlich ein Austausch und eine kreative Nutzung der vorhandenen Möglichkeiten ergibt. Wer anderen zunächst eine helfende Hand reicht, entscheidet sich oft später dazu, selbst ein Projekt umzusetzen.
+Bei uns treffen Menschen von Kindern bis zu Rentnern mit den unterschiedlichsten Projekten aufeinander. Dadurch ergibt sich ganz natürlich ein Austausch und eine kreative Nutzung der vorhandenen Möglichkeiten. Wer anderen zunächst eine helfende Hand reicht, entscheidet sich oft später dazu, selbst ein Projekt umzusetzen.
 
 ### Nachhaltigkeit: Wir übernehmen Verantwortung für Menschen und Zukunft
 Fördert Dein Engagement einen bewussten Umgang mit Menschen, Umwelt und gemeinsamer Zukunft?
