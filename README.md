@@ -52,13 +52,13 @@ Bitte ordne ein, wie kritisch Dein Anliegen ist.
 
 #### Bitte begründe Deine Auswahl (mit Zeilenumbruch)
 
-Die Weberei Gütersloh ist das Kultur- und Bürgerzentrum der Stadt, seit 1984 Heimat für Vereine, Gastronomie, Kino und Jugendarbeit. Sie wäre heute ein Parkplatz, hätten Bürger:innen 1979 nicht für ihren Erhalt gekämpft. Seit 1989 steht sie unter Denkmalschutz, sie hat Insolvenzen und Betreiberwechsel überstanden, weil sich immer Bürger:innen für sie eingesetzt haben. Jetzt steht ihr die größte Sanierung ihrer Geschichte bevor, bei der wieder Engagement gefragt ist.
+Die Weberei Gütersloh ist das Kultur- und Bürgerzentrum der Stadt. Seit 1984 ist sie Heimat für Vereine, Gastronomie, Kultur und Jugend. Sie wäre heute ein Parkplatz, hätten die Bürger:innen 1979 nicht für ihren Erhalt gekämpft. Seit 1989 steht sie unter Denkmalschutz. Sie hat mehrere Insolvenzen und Betreiberwechsel überstanden, weil sich immer wieder Menschen für ihren Erhalt eingesetzt haben. Aktuell befindet sie sich in der größten Sanierung ihrer Geschichte, bei der erneut Engagement erforderlich ist.
 
-Die Arbeiten haben Anfang 2026 begonnen und erweisen sich als größer als gedacht. Das gesamte Gebäude muss brandschutztechnisch ertüchtigt werden. Deshalb haben die Initiativen seit einem halben Jahr keinen Zutritt mehr zu den Räumen und erst jetzt wird dies wieder raumweise möglich. Derzeit beschränkt es sich auf einen Seminarraum und ein Studio mit Sportboden.
+Die Arbeiten haben Anfang 2026 begonnen und erweisen sich als umfangreicher als gedacht. Das gesamte Gebäude muss brandschutztechnisch ertüchtigt werden. Deshalb haben die Initiativen seit einem halben Jahr keinen Zutritt mehr zu den Gebäuden. Erst jetzt wird dies wieder raumweise möglich. Derzeit beschränkt es sich auf einen Seminarraum und ein Studio mit Sportboden.
 
-Von allen Initiativen trifft es uns am härtesten. Wir hatten eine feste Werkstatt mit Maschinen, Werkbänken und Werkzeugen eingerichtet, die wir nun in Lagerräumen verstauen mussten. 
+Von allen Initiativen trifft es uns, den Makerspace Gütersloh e.V., am härtesten. Wir hatten eine feste Werkstatt mit Maschinen, Werkbänken und Werkzeugen eingerichtet, die wir nun in Lagerräumen verstauen mussten. 
 
-Als engagierte Vereinsmitglieder lassen wir uns davon nicht aufhalten. Regale, Werkbänke und Ordnungssysteme müssen neu gebaut werden, damit wir wieder provisorisch handlungsfähig sind. Wir wollen uns aktiv bei den Renovierungsarbeiten einbringen, um Möbel für und mit allen in der Weberei direkt vor Ort zu bauen. Dazu brauchen wir jetzt mobile Werkzeuge, die ohne feste Werkstatt einsetzbar sind.
+Als engagierter Verein lassen wir uns davon jedoch nicht aufhalten. Regale, Werkbänke und Ordnungssysteme müssen neu gebaut werden, damit wir wieder handlungsfähig sind. Wir wollen uns aktiv bei den Renovierungsarbeiten einbringen und Möbel für und mit allen in der Weberei direkt vor Ort bauen. Dafür benötigen wir jetzt mobile Werkzeuge, die ohne feste Werkstatt einsetzbar sind, um jeden Raum schnell wieder nutzen zu können.
 
 ## Abschnitt 2: Projektbeschreibung
 
