@@ -58,7 +58,7 @@ Die Arbeiten haben Anfang 2026 begonnen und erweisen sich als umfangreicher als 
 
 Von allen Initiativen trifft es uns, den Makerspace Gütersloh e.V., am härtesten. Wir hatten eine feste Werkstatt mit Maschinen, Werkbänken und Werkzeugen eingerichtet, die wir nun in Lagerräumen verstauen mussten. 
 
-Als engagierter Verein lassen wir uns davon jedoch nicht aufhalten. Regale, Werkbänke und Ordnungssysteme müssen neu gebaut werden, damit wir wieder handlungsfähig sind. Wir wollen uns aktiv bei den Renovierungsarbeiten einbringen und Möbel für und mit allen in der Weberei direkt vor Ort bauen. Dafür benötigen wir jetzt mobile Werkzeuge, die ohne feste Werkstatt einsetzbar sind, um jeden Raum schnell wieder nutzen zu können.
+Als engagierter Verein lassen wir uns davon jedoch nicht aufhalten. Regale, Werkbänke und Ordnungssysteme müssen neu gebaut werden, damit wir wieder handlungsfähig sind. Wir wollen uns aktiv bei den Renovierungsarbeiten einbringen und Möbel für und mit allen in der Weberei direkt vor Ort bauen. Dafür benötigen wir jetzt Werkzeuge, die ohne feste Werkstatt einsetzbar sind, um jeden Raum schnell wieder nutzen zu können.
 
 ## Abschnitt 2: Projektbeschreibung
 
