@@ -171,3 +171,6 @@ Nachhaltigkeit ist für uns gelebte Praxis. Gemeinschaftlich genutzte Werkzeuge 
 
 ## Du kannst hier Bilder/weitere Dokumente zu Deinem Bedarf hochladen
 
+- [Satzung Makerspace Gütersloh](Satzung%20Makerspace%20Gütersloh.pdf)
+- [Freistellungsbescheid Makerspace Gütersloh](Freistellungsbescheid%20Makerspace%20Gütersloh.pdf)
+- [Satzung Weberei Förderverein](Satzung%20Weberei%20Förderverein.pdf)
