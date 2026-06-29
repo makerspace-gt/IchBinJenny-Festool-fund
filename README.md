@@ -127,7 +127,7 @@ Gibt es eine inhaltliche Nähe zu unseren Themen, Arbeitsfeldern oder unserem Wi
 
 #### Bitte begründe Deine Auswahl (mit Zeilenumbruch)
 
-Als offene Werkstatt verbindet uns mit Festool die gemeinsame Überzeugung, dass gutes Werkzeug zu guter Arbeit führt. Festool steht als Familienunternehmen für die Kultur des Handwerks, für regionale Verwurzelung, Qualitätsanspruch ohne Kompromisse und Werkzeug, das hält. Die Arbeiten, die wir in der Weberei ausführen, sind handwerklich identisch mit dem, wofür Festools Werkzeuge entwickelt wurden, nämlich Innenausbau, Möbelmontage und Tischlerarbeit. Festool ist die Marke für mobile Werkzeuge auf der Baustelle. Die Weberei ist gerade genau das.
+Als offene Werkstatt teilen wir mit Festool die Überzeugung, dass gutes Werkzeug zu guter Arbeit führt. Als Familienunternehmen steht Festool für die Kultur des Handwerks, für regionale Verwurzelung, einen Qualitätsanspruch ohne Kompromisse und Werkzeuge, die halten. Festool ist die Marke für Werkzeuge auf der Baustelle. Die Weberei ist genau das.
 
 ### Trägt Dein Engagement zu einem oder mehreren der folgenden Festool-Unternehmenswerte bei?
 
